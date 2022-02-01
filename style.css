@@ -85,6 +85,9 @@ h1{
  h3{
      text-align: center;
  }
+ ol{
+     columns: 2;
+ }
  .filho-p > p{
      font-size: large;/*Utilizado para deixar a font maior*/
      margin:  15px 0px;/*Utilizamos para dar uma margem cima/direita/baixo/esquerda, isso pq repetimos o valor no espaçamento.*/
